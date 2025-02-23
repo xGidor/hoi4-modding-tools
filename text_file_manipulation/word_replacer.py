@@ -8,7 +8,7 @@ file_ext = '*.txt'
 
 # Define the words to replace and the string to replace them with
 words_to_replace = {
-    'fascism': 'modern_fascism',
+    'old_ideology': 'new_ideology',
 }
 
 # Loop through each file in the directory with the specified extension
